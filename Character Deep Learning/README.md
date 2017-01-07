@@ -10,4 +10,4 @@ Note - This folder does not include ASR character models.
 * *Generating Text with Recurrent Neural Networks* - **Ilya Sutskever, James Martens, Geoffrey Hinton**, 2011
 * *Subword Language Modelling with Neural Networks* - **Tomas Mikolov, Ilya Sutskever, Anoop Deoras, Hai-Son Le, Stefan Kombrink, Jan Cernocky**, 2012
 * *Alternative Structures for Character RNNs* - **Piotr Bojanowski, Armand Joulin, Tomas Mikolov** (2015)
-* *Learning to Execute* - **Wojciech Zaremba, Ilya Sutskever** (Google Brain), 2014
+* *Learning to Execute* - **Wojciech Zaremba, Ilya Sutskever** (Google Brain), 2015
