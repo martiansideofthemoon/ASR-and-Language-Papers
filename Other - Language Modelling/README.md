@@ -7,3 +7,4 @@
 * *Prediction with Short Memory* - **Sham Kakade, Percy Liang, Vatsal Sharan** (Stanford) (2016)
 * *An Empirical Study of Smoothing Techniques* - *Chen and Goodman** (1998)
 * *Frustratingly short attention spans in neural language modeling* (ICLR) - **Michał Daniluk, Sebastian Riedel** (University College London) (2017)
+*Statistical Language Models Based on Neural Networks* - **Tomas Mikolov** (PhD Thesis) (2012)
